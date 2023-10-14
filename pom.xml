@@ -8,11 +8,11 @@
 		<version>3.1.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.example</groupId>
+	<groupId>br.com.example.todolist</groupId>
 	<artifactId>todolist</artifactId>
 	<version>1.0.0</version>
-	<name>demo</name>
-	<description>Demo project for Spring Boot</description>
+	<name>todolist</name>
+	<description>Project of TO DO LIST</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
